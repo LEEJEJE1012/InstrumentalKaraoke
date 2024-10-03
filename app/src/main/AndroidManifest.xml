@@ -13,4 +13,7 @@
         android:theme="@style/Theme.InstrumentalKaraoke"
         tools:targetApi="31" />
 
+
+
+
 </manifest>
